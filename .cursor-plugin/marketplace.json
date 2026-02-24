@@ -1,0 +1,16 @@
+{
+  "name": "elastic-cursor-plugins",
+  "owner": {
+    "name": "Elastic"
+  },
+  "metadata": {
+    "description": "Official Elastic plugins for Cursor"
+  },
+  "plugins": [
+    {
+      "name": "elastic-docs",
+      "source": "elastic-docs",
+      "description": "Elastic Documentation MCP server — search, browse, and analyze Elastic docs directly from Cursor"
+    }
+  ]
+}
